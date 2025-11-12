@@ -65,3 +65,12 @@ Durante este exercício, foram praticados:
 🔹 Permitir entrada de valores pelo usuário com `Scanner`;  
 🔹 Calcular áreas de outras formas geométricas (triângulo, círculo, quadrado);  
 🔹 Implementar verificação de valores inválidos.
+
+---
+
+## 👨‍💻 Autor
+**Lucas Mafra**  
+Desenvolvedor em transição de carreira — formado em Ciências Contábeis e cursando Análise e Desenvolvimento de Sistemas.  
+Atualmente aluno do **Bootcamp Fullstack da Generation Brasil (JavaScript | TypeScript)**.
+
+🌐 [GitHub](https://github.com/LucasOMafra) | 💼 [LinkedIn](https://www.linkedin.com/in/LucasOMafra)
